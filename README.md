@@ -1,2 +1,2 @@
-# bkindfold-chess-bot
+# blindfold-chess-bot
 this is a tg bot for blindfold chess
